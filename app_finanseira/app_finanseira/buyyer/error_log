@@ -1,0 +1,17 @@
+[01-Jul-2024 09:12:21 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[01-Jul-2024 09:12:21 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[01-Jul-2024 09:12:43 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[01-Jul-2024 09:12:43 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[01-Jul-2024 09:14:37 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[01-Jul-2024 09:14:37 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[01-Jul-2024 12:54:23 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[01-Jul-2024 12:54:23 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[03-Jul-2024 15:41:06 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[03-Jul-2024 15:41:06 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[03-Jul-2024 15:41:26 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[03-Jul-2024 15:41:26 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 76
+[03-Jul-2024 15:41:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php:82
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php(82): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/buyyer/create.php on line 82

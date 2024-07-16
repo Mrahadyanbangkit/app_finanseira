@@ -1,0 +1,30 @@
+[03-Jul-2024 15:43:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php:20
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php on line 20
+[03-Jul-2024 15:43:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php:20
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php on line 20
+[03-Jul-2024 15:44:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php:20
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php on line 20
+[03-Jul-2024 15:44:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php:20
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php on line 20
+[03-Jul-2024 15:44:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php:20
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php on line 20
+[03-Jul-2024 22:24:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php:20
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/customer_support/create.php on line 20

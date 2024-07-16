@@ -1,0 +1,10 @@
+[03-Jul-2024 22:28:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/pajak/create.php:26
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/pajak/create.php(26): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/pajak/create.php on line 26
+[03-Jul-2024 22:29:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'user_id' in /home/dksystem/public_html/finanseira/app_finanseira/pajak/create.php:26
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/pajak/create.php(26): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/pajak/create.php on line 26

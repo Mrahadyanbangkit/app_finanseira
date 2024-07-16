@@ -1,0 +1,5 @@
+[03-Jul-2024 15:42:00 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/dksystem/public_html/finanseira/app_finanseira/sell/create.php:31
+Stack trace:
+#0 /home/dksystem/public_html/finanseira/app_finanseira/sell/create.php(31): mysqli_query()
+#1 {main}
+  thrown in /home/dksystem/public_html/finanseira/app_finanseira/sell/create.php on line 31
